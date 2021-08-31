@@ -4,6 +4,43 @@ header {
     background-size: 160px 39px;
 };
 
-.nome-autore {
-    color: lightblue;
+.logo {
+    width: 200px;
+    margin-top: 30px;
+}
+
+.autore {
+    color: grey;
 };
+
+.nome-autore {
+    color: #4ea0ff;
+};
+
+.data {
+    color: grey;
+    font-size: small;
+}
+
+.immagini-tim {
+    width: 100%;
+};
+
+.didascalia {
+    font-size: small;
+    margin: 0;
+};
+
+.testo-lorem {
+    background-color: yellow;
+};
+
+thead {
+    background-color:#4ea0ff;
+    color: white;
+    text-align: left;
+};
+
+.riga-colorata {
+    background-color: lightblue;
+}
